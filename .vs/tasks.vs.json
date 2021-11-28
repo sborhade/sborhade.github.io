@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-modern-resume-theme-gh-pages",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}
