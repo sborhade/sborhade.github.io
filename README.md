@@ -4,8 +4,6 @@
 
 - 🖥 Personal website: <a href="https://sborhade.github.io" target="_blank">here</a> <br>
 
-- 📚 I’m currently learning <a href="https://react.com/">React</a> <br>
-
 - 🌎 <a href="https://www.linkedin.com/in/sandeephb/" target="-blank">LinkedIn</a> <br>
 
 - 📫 How to reach me: sandeephborhade@gmail.com <br>
