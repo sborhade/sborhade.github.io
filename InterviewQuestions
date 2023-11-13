@@ -1,0 +1,50 @@
+Random tech screening
+Role: UI Web Developer
+Knowledge Base
+The object of this game is to learn modern best practices to prepare for interviews and stay current for these topics:
+Questions and Answers:
+React, Angular, JavaScript
+NPX vs NPM, Yarn
+Render in React
+Virtual Dom vs Shadow Dom
+React Libs,
+Lifecycle
+Load
+Unload
+Etc…
+
+Web services, Map to UI
+Components, Parent Child, state, props
+Class vs Function
+CRUD Full Stack Integration
+MERN vs MEAN
+Redux
+
+https://react-redux.js.org/introduction/why-use-react-redux
+Hooks
+UseState
+UseEffect
+UseCallback
+UseMemo
+UseRef
+
+https://blog.bitsrc.io/6-reasons-to-use-react-hooks-instead-of-classes-7e3ee745fe04
+Debounce vs PreventDefault
+Async Await
+Axios, Fetch, Get
+             
+
+Mobile First
+Flutter vs React Native vs Ionic vs Gatsby vs Xamarin, which is best and why?
+
+Spread Operators, Arrow Functions
+MAP, Filter, Pipe, Subscribe
+AJAX
+Promises vs Lazy Loading
+Observables / RXJS
+Closures, when / where / how to use?
+Get, Set JSON to UI Loop Results
+Less, Sass, CSS what’s the difference
+Bootstrap, Material
+
+CI / CD
