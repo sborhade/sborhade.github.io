@@ -1,4 +1,4 @@
-<h1 align="center">GitHub Projects</h1>
+<h1 align="center">GitHub Profile</h1>
 <br>
  <p align="left">
 
